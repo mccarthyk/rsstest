@@ -1,2 +1,56 @@
-
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hillsborough County Calendar Feed</title><link>https://hillsboroughcounty.org/calendar</link><description>Hillsborough County Calendar</description><item><title>Board of County Commissioners Meeting</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181003-bocc-meeting</link><pubDate>Wed, 03 Oct 2018 13:00:00 GMT</pubDate><guid isPermaLink="false">48e9b6df-8537-45aa-a05b-a93c768dcc74</guid></item><item><title>BOCC Awards Ceremony</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181011-bocc-awards</link><pubDate>Thu, 11 Oct 2018 13:00:00 GMT</pubDate><guid isPermaLink="false">721f7db0-7688-4d81-979d-6e11f123d444</guid></item><item><title>Board of County Commissioners Meeting</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181017-bocc-meeting</link><pubDate>Wed, 17 Oct 2018 13:00:00 GMT</pubDate><guid isPermaLink="false">8fe6f2c8-442c-4663-9806-4cc8eb8cb773</guid></item><item><title>Law Library Advisors</title><link>https://hillsborough/en/calendar/05-publicmeetings/2018/20181024-law-library-advisory-board</link><pubDate>Wed, 24 Oct 2018 16:00:00 GMT</pubDate><guid isPermaLink="false">5021039a-525d-42bb-be04-847976ae95f3</guid></item><item><title>Board of County Commissioners &amp; Farewell Ceremony</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181108-bocc-meeting</link><pubDate>Thu, 08 Nov 2018 14:00:00 GMT</pubDate><guid isPermaLink="false">2d220f83-cecc-4a11-992a-03d4b95f94a4</guid></item><item><title>Investiture Ceremony &amp; BOCC Organizational Meeting</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181120-bocc-investiture-and-org</link><pubDate>Tue, 20 Nov 2018 14:00:00 GMT</pubDate><guid isPermaLink="false">631331b8-d64e-474d-aeef-3ab33b24296d</guid></item><item><title>Board of County Commissioners Meeting</title><link>https://hillsborough/en/calendar/01-bocc/2018/20181205-bocc-meeting</link><pubDate>Wed, 05 Dec 2018 14:00:00 GMT</pubDate><guid isPermaLink="false">dd06888b-ffe6-4e23-b9fd-6ac628db8d79</guid></item><item><title>Law Library Advisors</title><link>https://hillsborough/en/calendar/05-publicmeetings/2018/20181212-law-library-advisory-board</link><pubDate>Wed, 12 Dec 2018 17:00:00 GMT</pubDate><guid isPermaLink="false">484192c1-c109-4e1b-9b68-0716f15cdaa9</guid></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>Hillsborough County Calendar Feed</title>
+      <link>https://hillsboroughcounty.org/calendar</link>
+      <description>Hillsborough County Calendar</description>
+      <item>
+         <title>Board of County Commissioners Meeting</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181003-bocc-meeting</link>
+         <pubDate>Wed, 03 Oct 2018 13:00:00 GMT</pubDate>
+         <guid isPermaLink="false">48e9b6df-8537-45aa-a05b-a93c768dcc74</guid>
+      </item>
+      <item>
+         <title>BOCC Awards Ceremony</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181011-bocc-awards</link>
+         <pubDate>Thu, 11 Oct 2018 13:00:00 GMT</pubDate>
+         <guid isPermaLink="false">721f7db0-7688-4d81-979d-6e11f123d444</guid>
+      </item>
+      <item>
+         <title>Board of County Commissioners Meeting</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181017-bocc-meeting</link>
+         <pubDate>Wed, 17 Oct 2018 13:00:00 GMT</pubDate>
+         <guid isPermaLink="false">8fe6f2c8-442c-4663-9806-4cc8eb8cb773</guid>
+      </item>
+      <item>
+         <title>Law Library Advisors</title>
+         <link>https://hillsborough/en/calendar/05-publicmeetings/2018/20181024-law-library-advisory-board</link>
+         <pubDate>Wed, 24 Oct 2018 16:00:00 GMT</pubDate>
+         <guid isPermaLink="false">5021039a-525d-42bb-be04-847976ae95f3</guid>
+      </item>
+      <item>
+         <title>Board of County Commissioners &amp; Farewell Ceremony</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181108-bocc-meeting</link>
+         <pubDate>Thu, 08 Nov 2018 14:00:00 GMT</pubDate>
+         <guid isPermaLink="false">2d220f83-cecc-4a11-992a-03d4b95f94a4</guid>
+      </item>
+      <item>
+         <title>Investiture Ceremony &amp; BOCC Organizational Meeting</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181120-bocc-investiture-and-org</link>
+         <pubDate>Tue, 20 Nov 2018 14:00:00 GMT</pubDate>
+         <guid isPermaLink="false">631331b8-d64e-474d-aeef-3ab33b24296d</guid>
+      </item>
+      <item>
+         <title>Board of County Commissioners Meeting</title>
+         <link>https://hillsborough/en/calendar/01-bocc/2018/20181205-bocc-meeting</link>
+         <pubDate>Wed, 05 Dec 2018 14:00:00 GMT</pubDate>
+         <guid isPermaLink="false">dd06888b-ffe6-4e23-b9fd-6ac628db8d79</guid>
+      </item>
+      <item>
+         <title>Law Library Advisors</title>
+         <link>https://hillsborough/en/calendar/05-publicmeetings/2018/20181212-law-library-advisory-board</link>
+         <pubDate>Wed, 12 Dec 2018 17:00:00 GMT</pubDate>
+         <guid isPermaLink="false">484192c1-c109-4e1b-9b68-0716f15cdaa9</guid>
+      </item>
+   </channel>
+</rss>
